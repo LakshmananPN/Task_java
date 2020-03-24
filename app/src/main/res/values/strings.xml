@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="title_home">Home</string>
+    <string name="title_category">Category</string>
+    <string name="title_deal">Deals</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_more">More</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
